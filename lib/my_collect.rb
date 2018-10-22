@@ -11,4 +11,5 @@ def my_collect(collection)
   else
     true
   end
+  block_return_values
 end 
